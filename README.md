@@ -1,26 +1,24 @@
-# Hi there, I'm Pramit
+# Hello World, I'm Pramit
 
-## Academic Background
-I am a recent graduate with a degree in Computer Science from Visva Bharati University, Santiniketan. My academic journey has provided me with a robust foundation in computer science, and I am eager to apply my skills in the intersection of Computer Science and Medicine.
+## My Academic Background
+I am a Master's student at Banaras Hindu University in the first year and working on a continuous glucose monitoring device development project at IIT BHU. I have a strong passion for utilizing computer science towards medical research advances. My specializations include biomedical engineering, and machine learning to healthcare. I am dedicated to contributing to projects that integrate these fields.
 
-## Research Interest
-I am particularly enthusiastic about engaging in research within the field of Medical Science. My goal is to leverage my strong background in computer science to contribute meaningfully to advancements in medical research.
+## My Research Interest
+My research interests are in these fields – Neuroscience, Neural and Cognitive Science, Biomedical engineering, Computational Biology, etc.
 
-## Key Skills
+## My Skills
 - **Data Structures and Algorithms (DSA):** Proficient in designing and implementing efficient data structures and algorithms.
-- **Digital Image Processing:** Skilled in processing and analyzing medical images for diagnostic and research purposes.
+- **Digital Image Processing:** Skilled in processing and analyzing medical images for diagnostic and research purposes using Tensorflow, PyTroch and OpenCV.
 - **Machine Learning (ML):** Well-versed in applying machine learning techniques to extract valuable insights from medical data.
 - **Programming Languages:**
-  - Python
-  - Java
   - C/C++
+  - Python
+  - R
+  - Java
   - HTML, CSS, JavaScript
 - **Software Tools:**
   - Matlab
-- **Bioinformatics:** Knowledgeable in handling extensive datasets in the biological field and applying systematic research methodologies.
-
-## Commitment to Research
-I have actively pursued opportunities to expand my knowledge, particularly in the domain of Bioinformatics. I am committed to giving my best effort and am eager to contribute to and learn from various research projects in the medical field.
+- **Clinical Data:** I have experience in both clinical data recording and analysing, and medical and wearable development. 
 
 ## Contact
 Thank you for considering my profile. If you have any further questions or would like to discuss potential collaborations, please feel free to contact me.
