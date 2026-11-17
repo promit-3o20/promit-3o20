@@ -1,10 +1,10 @@
 # Hello World, I'm Pramit
 
 ## My Academic Background
-I am a Master's student at Banaras Hindu University in the first year and working on a continuous glucose monitoring device development project at IIT BHU. I have a strong passion for utilizing computer science towards medical research advances. My specializations include biomedical engineering, and machine learning to healthcare. I am dedicated to contributing to projects that integrate these fields.
+I am currently working as a computational biologist at an R&D start-up named MIRNOW Global Pvt. Ltd. in Varanasi, India. I have completed my Bachelor’s and Master’s degrees in Computer Science. My Master’s thesis, titled ”The Brain on Poetry: Spectral EEG Signatures and Computational Decoding of Aesthetic Language Processing”, focused on neuroaesthetics.(Project [repo](https://github.com/promit-3o20/neuro_astic))
 
 ## My Research Interest
-My research interests are in these fields – Neuroscience, Neural and Cognitive Science, Biomedical engineering, Computational Biology, etc.
+My research interests are in these fields – *Computational Neuroscience, Neural and Cognitive Science, Biomedical Sciences, Computational Biology, etc.*
 
 ## My Skills
 - **Data Structures and Algorithms (DSA):** Proficient in designing and implementing efficient data structures and algorithms.
@@ -23,8 +23,7 @@ My research interests are in these fields – Neuroscience, Neural and Cognitive
 ## Contact
 Thank you for considering my profile. If you have any further questions or would like to discuss potential collaborations, please feel free to contact me.
 
-*Email:* [pramitbiswas30@outlook.com](mailto:pramitbiswas30@outlook.com)
-*LinkedIn:* [linkedin.com/in/pramit-biswas/](https://www.linkedin.com/in/pramit-biswas/)
+[LinkedIn](https://www.linkedin.com/in/pramit-biswas/) | [ORCID](https://orcid.org/0009-0008-1050-3441) | [Google Scholar](https://scholar.google.com/citations?user=PlWLgwgAAAAJ&hl=en)
 
 ---
 
